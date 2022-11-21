@@ -1,4 +1,2 @@
-This README is for ALx project on Git 
+This readme is for 0x01-git directory
 
-Create a README file in fulfilment of
-the requirement of Git first project on ALx.
